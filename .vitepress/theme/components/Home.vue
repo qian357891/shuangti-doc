@@ -8,26 +8,31 @@ import SiteMap from './SiteMap.vue'
     <h1 class="tagline">
       移通
       <span class="accent">双体软件精英产业学院</span>
-      <h2>技术实战+职场关键能力</h2>
     </h1>
+    <h2 class="tagline" style="font-size: 56px; margin-top: 20px">
+      技术实战+职场关键能力
+    </h2>
+
     <p class="description">为了解决大学生就业难题而采用的教育体系模式</p>
-    <p class="actions">
+    <div class="actions">
       <VueMasteryModal />
-      <a class="get-started" href="/guide/introduction.html">
-        开始
-        <svg
-          class="icon"
-          xmlns="http://www.w3.org/2000/svg"
-          width="10"
-          height="10"
-          viewBox="0 0 24 24"
-        >
-          <path
-            d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z"
-          />
-        </svg>
-      </a>
-    </p>
+      <div style="display: inline-block">
+        <a class="get-started" href="/guide/introduction.html">
+          开始
+          <svg
+            class="icon"
+            xmlns="http://www.w3.org/2000/svg"
+            width="10"
+            height="10"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z"
+            />
+          </svg>
+        </a>
+      </div>
+    </div>
   </section>
 
   <section id="highlights" class="vt-box-container">
