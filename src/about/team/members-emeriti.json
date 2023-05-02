@@ -1,0 +1,58 @@
+[
+  {
+    "name": "罗某某",
+    "title": "天泽一部经理",
+    "company": "天泽一部",
+    "projects": [
+      {
+        "label": "唱"
+      },
+      {
+        "label": "跳"
+      },
+      {
+        "label": "rap"
+      },
+      {
+        "label": "打篮球"
+      }
+    ],
+    "location": "通信工程",
+    "languages": ["Chinglish"],
+    "website": {
+      "label": "kevinqian.cn",
+      "url": "https://kevinqian.cn"
+    },
+    "socials": {
+      "github": "qian357891"
+    }
+  },
+  {
+    "name": "罗某某*2",
+    "title": "天泽一部经理",
+    "company": "天泽一部",
+    "projects": [
+      {
+        "label": "唱"
+      },
+      {
+        "label": "跳"
+      },
+      {
+        "label": "rap"
+      },
+      {
+        "label": "打篮球"
+      }
+    ],
+    "location": "通信工程",
+    "languages": ["Chinglish"],
+    "website": {
+      "label": "kevinqian.cn",
+      "url": "https://kevinqian.cn"
+    },
+    "socials": {
+      "github": "qian357891"
+    }
+  }
+]

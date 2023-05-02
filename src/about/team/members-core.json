@@ -1,0 +1,60 @@
+[
+  {
+    "name": "待定",
+    "title": "24期2任基地总经理",
+    "company": "某某x部",
+    "projects": [
+      {
+        "label": "唱"
+      },
+      {
+        "label": "跳"
+      },
+      {
+        "label": "rap"
+      },
+      {
+        "label": "打篮球"
+      }
+    ],
+    "location": "软件工程",
+    "languages": ["TypeScript", "Zig"],
+    "website": {
+      "label": "kevinqian.cn",
+      "url": "https://kevinqian.cn"
+    },
+    "socials": {
+      "github": "qian357891"
+    }
+  },
+  {
+    "name": "赵某某",
+    "title": "新媒体负责人",
+    "company": "天泽一部",
+    "companyLink": "/guide/student-style/composables",
+    "projects": [
+      {
+        "label": "唱"
+      },
+      {
+        "label": "跳"
+      },
+      {
+        "label": "rap"
+      },
+      {
+        "label": "打篮球"
+      }
+    ],
+    "location": "市场营销",
+    "languages": ["Chinese", "English"],
+    "website": {
+      "label": "kevinqian.cn",
+      "url": "https://kevinqian.cn"
+    },
+    "socials": {
+      "github": "qian357891"
+    },
+    "sponsor": false
+  }
+]

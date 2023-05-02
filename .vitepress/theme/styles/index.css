@@ -1,0 +1,14 @@
+@import "./pages.css";
+@import "./badges.css";
+@import "./options-boxes.css";
+@import "./inline-demo.css";
+@import "./utilities.css";
+@import "./style-guide.css";
+
+:root{
+  --vt-c-brand : var(--vt-c-red) !important;
+  --vt-c-brand-highlight : var(--vt-c-red-light) !important;
+  --vt-c-green : var(--vt-c-red) !important;
+  --vt-c-brand-dark : var(--vt-c-red-dark) !important;
+  --vt-c-brand-light : var(--vt-c-red-light) !important;
+}
