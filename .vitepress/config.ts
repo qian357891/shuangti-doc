@@ -112,6 +112,16 @@ export default defineConfigWithTheme<ThemeConfig>({
   srcDir: 'src',
   srcExclude: ['tutorial/**/description.md'],
 
+  // head: [
+  //   [
+  //     'meta',
+  //     {
+  //       name: 'Content-Security-Policy',
+  //       content: 'upgrade-insecure-requests'
+  //     }
+  //   ]
+  // ],
+
   themeConfig: {
     nav,
     sidebar,
