@@ -2,7 +2,7 @@
 import { ref, watch } from 'vue'
 
 const VIDEO_SOURCE =
-  'https://mpvideo.qpic.cn/0bc3fyaciaaa3magg7qzcrsfalwdeqxaajaa.f10002.mp4?dis_k=36d98921dd7ceb9832d95259e5880470&dis_t=1683083025&play_scene=10120&auth_info=YMTNzfZrUV1Gjt+k8XV1RjoSNmoTNUMDJDoKAxVgfCpZYUo=&auth_key=7b5c00bb7771cfb99cb73910cbfe23d8&vid=wxv_2848538924840648705&format_id=10002&support_redirect=0&mmversion=false?autoplay=1'
+  'http://mpvideo.qpic.cn/0bc3fyaciaaa3magg7qzcrsfalwdeqxaajaa.f10002.mp4?dis_k=2b42a7c472c90c21e46a035383f4f9eb&dis_t=1683134118&play_scene=10120&auth_info=JLv5y5lZRlVmof/foCFEVDdODhB3JWtRYxtfP1R4d20dSyo2Gw==&auth_key=3c401c4b0806779284afcb2b911307c2&vid=wxv_2848538924840648705&format_id=10002&support_redirect=0&mmversion=false?autoplay=1'
 const showWhyVue = ref(false)
 
 watch(

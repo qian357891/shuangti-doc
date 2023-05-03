@@ -130,12 +130,12 @@ export default defineConfigWithTheme<ThemeConfig>({
     sidebar,
 
     algolia: {
-      indexName: 'vuejs',
-      appId: 'ML0LEBN7FQ',
-      apiKey: 'f49cbd92a74532cc55cfbffa5e5a7d01',
-      searchParameters: {
-        facetFilters: ['version:v3']
-      }
+      indexName: 'shuangti-vercel',
+      appId: 'NB4UUQD3I2',
+      apiKey: 'fd5cda6ca69a3b8dd85f79515d75ba51'
+      // searchParameters: {
+      //   facetFilters: ['version:v3']
+      // }
     },
 
     socialLinks: [{ icon: 'twitter', link: 'https://weibo.com/u/2819609662' }],
