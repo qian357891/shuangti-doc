@@ -15,7 +15,7 @@ footer: false
 <div class="vue-mastery-link">
   <a href="http://www.shuangtixi.com/" target="_blank">
     <div class="banner-wrapper">
-      <img  alt="Vue Mastery banner" width="250px" height="56px" src="../public/images/logo.png" />
+      <img  alt="Vue Mastery banner" width="250px" height="56px" src="/images/logo.png" />
     </div>
     <p class="description">想要了解更多？ <span>www.shuangtixi.com/</span></p>
   </a>

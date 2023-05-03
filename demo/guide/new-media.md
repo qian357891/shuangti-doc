@@ -17,7 +17,7 @@ footer: false
 欢迎大家聆听我们的故事。
 
 <video controls class="video">
-<source src="http://mpvideo.qpic.cn/0bc3l4aacaaakmaorojxmfsfax6dafpqaaia.f10002.mp4?dis_k=5f50b3cb60151f40785d4bf66c920c4e&dis_t=1683039598&play_scene=10120&auth_info=f/7mh+sNaytN/dKjqAxeGToTMkgFJGBFARJvcTRBNgNGbVc=&auth_key=d38d6941560debf8bcc4bb68b3b4b8cf&vid=wxv_2882216142858878977&format_id=10002&support_redirect=0&mmversion=false" type="video/mp4">
+<source src="/video/独白.mp4" type="video/mp4">
 </video>
 
 ## 新媒体成员的视频小作业 {#新媒体成员的视频小作业}
@@ -27,7 +27,7 @@ footer: false
 ### 双体风云
 
 <video controls class="video">
-    <source src="../public/video/双体风云.mp4" type="video/mp4">
+    <source src="/video/双体风云.mp4" type="video/mp4">
 </video>
 
 ## 在多个平台的媒体进行锻炼 {#next-steps}

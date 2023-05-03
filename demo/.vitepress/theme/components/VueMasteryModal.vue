@@ -1,8 +1,7 @@
 <script setup lang="ts">
 import { ref, watch } from 'vue'
 
-const VIDEO_SOURCE =
-  'http://mpvideo.qpic.cn/0bc3fyaciaaa3magg7qzcrsfalwdeqxaajaa.f10002.mp4?dis_k=2b42a7c472c90c21e46a035383f4f9eb&dis_t=1683134118&play_scene=10120&auth_info=JLv5y5lZRlVmof/foCFEVDdODhB3JWtRYxtfP1R4d20dSyo2Gw==&auth_key=3c401c4b0806779284afcb2b911307c2&vid=wxv_2848538924840648705&format_id=10002&support_redirect=0&mmversion=false?autoplay=1'
+const VIDEO_SOURCE = '/video/美式霸凌.mp4'
 const showWhyVue = ref(false)
 
 watch(
